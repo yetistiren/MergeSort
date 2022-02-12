@@ -11,3 +11,4 @@
 
 
 Big-O gösterimi
+2^x = n logn = x ===> o(nlogn)
